@@ -1,10 +1,10 @@
 {
   "author": "PushOk Software <support@pushok.com>",
-  "name": "tingodb-lcnvdl",
-  "version": "0.6.3",
+  "name": "tingodb",
+  "version": "0.6.4",
   "repository": {
     "type": "git",
-    "url": "git://github.com/lcnvdl/tingodb.git"
+    "url": "git://github.com/sergeyksv/tingodb.git"
   },
   "contributors": [
     {
@@ -34,6 +34,10 @@
     {
       "name": "Diogo Duailibe",
       "email": "diogo.duailibe.silva@gmail.com"
+    },
+    {
+      "name": "Alan Colón",
+      "email": "npm@alanc.net"
     }
   ],
   "description": "Embedded Node.js database upward compatible with MongoDB",
